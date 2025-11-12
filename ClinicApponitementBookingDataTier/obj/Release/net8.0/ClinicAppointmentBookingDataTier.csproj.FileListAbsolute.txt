@@ -1,0 +1,15 @@
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\bin\Release\net8.0\ClinicAppointmentBookingDataTier.deps.json
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\bin\Release\net8.0\ClinicAppointmentBookingDataTier.dll
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\bin\Release\net8.0\ClinicAppointmentBookingDataTier.pdb
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\bin\Release\net8.0\ClinicAppointmentsBookingDTO.dll
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\bin\Release\net8.0\ClinicAppointmentsBookingDTO.pdb
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.csproj.AssemblyReference.cache
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.AssemblyInfoInputs.cache
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.AssemblyInfo.cs
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.csproj.CoreCompileInputs.cache
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAp.F0B8D058.Up2Date
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.dll
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\refint\ClinicAppointmentBookingDataTier.dll
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ClinicAppointmentBookingDataTier.pdb
+C:\Users\Game On\source\repos\ClinicApponitementBookingDataTier\obj\Release\net8.0\ref\ClinicAppointmentBookingDataTier.dll

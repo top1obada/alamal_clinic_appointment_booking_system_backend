@@ -1,0 +1,937 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\controllers\\doctor\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:controllers\\doctor\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\savecompleteddoctor\\savecompleteddoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\services\\saveappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\doctordto\\retrivingadddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\updatecompleteddoctorsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getcompleteddoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\services\\getservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\person\\services\\savepersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\services\\updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A504-5499-403B-B10D-8C55526C4A96}|..\\ClinicApponitementBookingDataTier\\ClinicAppointmentBookingDataTier.csproj|c:\\users\\game on\\source\\repos\\clinicapponitementbookingdatatier\\objectdata\\patientdata\\patientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\controllers\\patient\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:controllers\\patient\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\controllers\\appointment\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:controllers\\appointment\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getdoctordetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\services\\serviceerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\patient\\services\\savecompletedpatient\\savecompletedpatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\patient\\services\\savecompletedpatient\\completedpatientwithloginrequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A504-5499-403B-B10D-8C55526C4A96}|..\\ClinicApponitementBookingDataTier\\ClinicAppointmentBookingDataTier.csproj|c:\\users\\game on\\source\\repos\\clinicapponitementbookingdatatier\\objectdata\\persondata\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\controllers\\doctorspecialty\\doctorspecialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:controllers\\doctorspecialty\\doctorspecialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getclinicdoctorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\appointmentdto\\changeappointmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A504-5499-403B-B10D-8C55526C4A96}|..\\ClinicApponitementBookingDataTier\\ClinicAppointmentBookingDataTier.csproj|c:\\users\\game on\\source\\repos\\clinicapponitementbookingdatatier\\objectdata\\doctorspecialtydata\\doctorspecialtydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\action\\login\\services\\loginbyrefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\patientdto\\patientappointmentstatuscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\persondto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\appointmentdto\\availabletimeappointmentsfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\appointmentdto\\availableappointmenttimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A504-5499-403B-B10D-8C55526C4A96}|..\\ClinicApponitementBookingDataTier\\ClinicAppointmentBookingDataTier.csproj|c:\\users\\game on\\source\\repos\\clinicapponitementbookingdatatier\\objectdata\\doctordata\\doctorholidaydaydata\\doctorholidaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A504-5499-403B-B10D-8C55526C4A96}|..\\ClinicApponitementBookingDataTier\\ClinicAppointmentBookingDataTier.csproj|c:\\users\\game on\\source\\repos\\clinicapponitementbookingdatatier\\objectdata\\doctordata\\doctorworktimedata\\doctorworkdaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\doctordto\\doctorholidaydaydto\\doctorholidaydaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getclinicdoctorspatientfavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getclinicdoctorspriviousapponimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getclinicdoctorsbynameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctor\\services\\getclinicdoctorsbyspecialnameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\doctorspecialty\\services\\getalldoctorspecialtiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\rejectingcause\\rejectingcause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\session\\services\\insertsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbooking_interfacesapis\\controllers\\appointment\\rejectingcause\\rejectingcausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8492C6BD-0464-4D8F-BD1F-23AF54A1E9D2}|ClinicAppointmentBooking_InterfacesAPIs.csproj|solutionrelative:controllers\\appointment\\rejectingcause\\rejectingcausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\patientdto\\patientinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\appointmentdto\\rejectingcausedto\\rejectedcausedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\appointmentdto\\patientappointmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\patientdto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\patientdto\\completedpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\patientdto\\clinicpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\sessiondto\\insertsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\doctordto\\doctorconsultationdto\\doctorconsultationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\doctordto\\doctorconsultationdto\\updatedoctorconsultationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\doctordto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\rejectingcause\\services\\saverejectingcauseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\services\\getpatientappointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\services\\getpatientappointmentsbyappointmentstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\services\\getclinicappointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\object\\appointment\\services\\changeappointmentstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A504-5499-403B-B10D-8C55526C4A96}|..\\ClinicApponitementBookingDataTier\\ClinicAppointmentBookingDataTier.csproj|c:\\users\\game on\\source\\repos\\clinicapponitementbookingdatatier\\objectdata\\appointmentdata\\rejectingcausedata\\rejectingcausedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\datatypes\\modes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493E65D-15CF-4124-A5A2-12C5E121D42C}|..\\ClinicAppointmentBookingBussinessTier\\ClinicAppointmentBookingBussinessTier.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentbookingbussinesstier\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43C03CA-4328-4C28-BD70-19127E1FA23B}|..\\ClinicAppointmentsBookingDTO\\ClinicAppointmentsBookingDTO.csproj|c:\\users\\game on\\source\\repos\\clinicappointmentsbookingdto\\patientdto\\retrivingaddpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveCompletedDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\SaveCompletedDoctor\\SaveCompletedDoctorService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\SaveCompletedDoctor\\SaveCompletedDoctorService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\SaveCompletedDoctor\\SaveCompletedDoctorService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\SaveCompletedDoctor\\SaveCompletedDoctorService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:22:10.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Doctor\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Doctor\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Doctor\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\Doctor\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:45:18.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RetrivingAddDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\RetrivingAddDoctorDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\RetrivingAddDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\RetrivingAddDoctorDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\RetrivingAddDoctorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:33:10.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\SaveAppointmentService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\SaveAppointmentService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\SaveAppointmentService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\SaveAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:41:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\GetService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Services\\GetService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\GetService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Services\\GetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:32:14.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T22:22:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\UpdateService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Services\\UpdateService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\UpdateService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Services\\UpdateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:24:59.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCompletedDoctorSevice.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\UpdateCompletedDoctorSevice.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\UpdateCompletedDoctorSevice.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\UpdateCompletedDoctorSevice.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\UpdateCompletedDoctorSevice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:33:44.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCompletedDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetCompletedDoctorService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetCompletedDoctorService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetCompletedDoctorService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetCompletedDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:34:08.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetDoctorDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetDoctorDetailsService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetDoctorDetailsService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetDoctorDetailsService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetDoctorDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:29:29.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "Controllers\\User\\UserController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwH0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:10:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavePersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Person\\Services\\SavePersonService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Person\\Services\\SavePersonService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Person\\Services\\SavePersonService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Person\\Services\\SavePersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:43:53.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Appointment\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Appointment\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Appointment\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\Appointment\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:25:45.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\PatientData\\PatientData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApponitementBookingDataTier\\ObjectData\\PatientData\\PatientData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\PatientData\\PatientData.cs",
+              "RelativeToolTip": "..\\ClinicApponitementBookingDataTier\\ObjectData\\PatientData\\PatientData.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAjwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:04:36.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceError.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\ServiceError.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Services\\ServiceError.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\ServiceError.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Services\\ServiceError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:05:58.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Patient\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Patient\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Patient\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\Patient\\PatientController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwEUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:51:46.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetClinicDoctorsService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:26:14.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\PersonData\\PersonData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApponitementBookingDataTier\\ObjectData\\PersonData\\PersonData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\PersonData\\PersonData.cs",
+              "RelativeToolTip": "..\\ClinicApponitementBookingDataTier\\ObjectData\\PersonData\\PersonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:01:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaveCompletedPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\SaveCompletedPatientService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\SaveCompletedPatientService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\SaveCompletedPatientService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\SaveCompletedPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:29:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompletedPatientWithLoginRequirements.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\CompletedPatientWithLoginRequirements.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\CompletedPatientWithLoginRequirements.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\CompletedPatientWithLoginRequirements.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Patient\\Services\\SaveCompletedPatient\\CompletedPatientWithLoginRequirements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:21:34.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoctorSpecialtyController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\DoctorSpecialty\\DoctorSpecialtyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorSpecialty\\DoctorSpecialtyController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\DoctorSpecialty\\DoctorSpecialtyController.cs",
+              "RelativeToolTip": "Controllers\\DoctorSpecialty\\DoctorSpecialtyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:52:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangeAppointmentStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\ChangeAppointmentStatusDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\ChangeAppointmentStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\ChangeAppointmentStatusDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\ChangeAppointmentStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:32:07.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginByRefreshTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Action\\Login\\Services\\LoginByRefreshTokenService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Action\\Login\\Services\\LoginByRefreshTokenService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Action\\Login\\Services\\LoginByRefreshTokenService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Action\\Login\\Services\\LoginByRefreshTokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:24:27.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorSpecialtyData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorSpecialtyData\\DoctorSpecialtyData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorSpecialtyData\\DoctorSpecialtyData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorSpecialtyData\\DoctorSpecialtyData.cs",
+              "RelativeToolTip": "..\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorSpecialtyData\\DoctorSpecialtyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:51:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PersonDTO\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PersonDTO\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PersonDTO\\PersonDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PersonDTO\\PersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:17:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientAppointmentStatusCountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientAppointmentStatusCountDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientAppointmentStatusCountDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientAppointmentStatusCountDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientAppointmentStatusCountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:36:00.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AvailableAppointmentTimeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableAppointmentTimeDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableAppointmentTimeDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableAppointmentTimeDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableAppointmentTimeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:14:35.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AvailableTimeAppointmentsFilterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableTimeAppointmentsFilterDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableTimeAppointmentsFilterDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableTimeAppointmentsFilterDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\AvailableTimeAppointmentsFilterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T00:17:09.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoctorHolidayData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorHolidayDayData\\DoctorHolidayData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorHolidayDayData\\DoctorHolidayData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorHolidayDayData\\DoctorHolidayData.cs",
+              "RelativeToolTip": "..\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorHolidayDayData\\DoctorHolidayData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:26:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorWorkDayData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorWorkTimeData\\DoctorWorkDayData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorWorkTimeData\\DoctorWorkDayData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorWorkTimeData\\DoctorWorkDayData.cs",
+              "RelativeToolTip": "..\\ClinicApponitementBookingDataTier\\ObjectData\\DoctorData\\DoctorWorkTimeData\\DoctorWorkDayData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:26:26.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DoctorHolidayDayDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorHolidayDayDTO\\DoctorHolidayDayDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorHolidayDayDTO\\DoctorHolidayDayDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorHolidayDayDTO\\DoctorHolidayDayDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorHolidayDayDTO\\DoctorHolidayDayDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:24:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetClinicDoctorsPatientFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPatientFavoriteService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPatientFavoriteService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPatientFavoriteService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPatientFavoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:47:33.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetClinicDoctorsPriviousApponimentService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPriviousApponimentService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPriviousApponimentService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPriviousApponimentService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsPriviousApponimentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:20:03.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\UserDTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\UserDTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\UserDTO\\UserDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\UserDTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:22:34.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetClinicDoctorsByNameService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsByNameService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsByNameService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsByNameService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsByNameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:33:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetClinicDoctorsBySpecialNameService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsBySpecialNameService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsBySpecialNameService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsBySpecialNameService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Doctor\\Services\\GetClinicDoctorsBySpecialNameService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:27:52.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetAllDoctorSpecialtiesService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\DoctorSpecialty\\Services\\GetAllDoctorSpecialtiesService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\DoctorSpecialty\\Services\\GetAllDoctorSpecialtiesService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\DoctorSpecialty\\Services\\GetAllDoctorSpecialtiesService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\DoctorSpecialty\\Services\\GetAllDoctorSpecialtiesService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:51:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RejectingCause.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\RejectingCause.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\RejectingCause.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\RejectingCause.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\RejectingCause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T22:42:27.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InsertSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Session\\Services\\InsertSessionService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Session\\Services\\InsertSessionService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Session\\Services\\InsertSessionService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Session\\Services\\InsertSessionService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:18:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\UserDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\UserDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\UserDTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\UserDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:29:42.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RejectedCauseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\RejectingCauseDTO\\RejectedCauseDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\RejectingCauseDTO\\RejectedCauseDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\RejectingCauseDTO\\RejectedCauseDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\RejectingCauseDTO\\RejectedCauseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:30:37.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RejectingCauseController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Appointment\\RejectingCause\\RejectingCauseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Appointment\\RejectingCause\\RejectingCauseController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBooking_InterfacesAPIs\\Controllers\\Appointment\\RejectingCause\\RejectingCauseController.cs",
+              "RelativeToolTip": "Controllers\\Appointment\\RejectingCause\\RejectingCauseController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:10:16.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PatientInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientInfoDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:43:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PatientAppointmentStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\PatientAppointmentStatusDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\PatientAppointmentStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\PatientAppointmentStatusDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\AppointmentDTO\\PatientAppointmentStatusDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:37:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:31:51.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ClinicPatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\ClinicPatientDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\ClinicPatientDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\ClinicPatientDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\ClinicPatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:43:34.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "InsertSessionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\SessionDTO\\InsertSessionDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\SessionDTO\\InsertSessionDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\SessionDTO\\InsertSessionDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\SessionDTO\\InsertSessionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:28:17.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DoctorConsultationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\DoctorConsultationDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\DoctorConsultationDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\DoctorConsultationDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\DoctorConsultationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:55:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CompletedPatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\CompletedPatientDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\CompletedPatientDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\CompletedPatientDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\CompletedPatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:32:49.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateDoctorConsultationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\UpdateDoctorConsultationDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\UpdateDoctorConsultationDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\UpdateDoctorConsultationDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorConsultationDTO\\UpdateDoctorConsultationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:56:20.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\DoctorDTO\\DoctorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:29:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetPatientAppointmentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:35:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SaveRejectingCauseService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\Services\\SaveRejectingCauseService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\Services\\SaveRejectingCauseService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\Services\\SaveRejectingCauseService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\RejectingCause\\Services\\SaveRejectingCauseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:36:20.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetPatientAppointmentsByAppointmentStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsByAppointmentStatusService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsByAppointmentStatusService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsByAppointmentStatusService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetPatientAppointmentsByAppointmentStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:39:19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetClinicAppointmentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetClinicAppointmentsService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetClinicAppointmentsService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetClinicAppointmentsService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\GetClinicAppointmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:33:41.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ChangeAppointmentStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\ChangeAppointmentStatusService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\ChangeAppointmentStatusService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\ChangeAppointmentStatusService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Object\\Appointment\\Services\\ChangeAppointmentStatusService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:00:03.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RejectingCauseData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\AppointmentData\\RejectingCauseData\\RejectingCauseData.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApponitementBookingDataTier\\ObjectData\\AppointmentData\\RejectingCauseData\\RejectingCauseData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicApponitementBookingDataTier\\ObjectData\\AppointmentData\\RejectingCauseData\\RejectingCauseData.cs",
+              "RelativeToolTip": "..\\ClinicApponitementBookingDataTier\\ObjectData\\AppointmentData\\RejectingCauseData\\RejectingCauseData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:08:13.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Modes.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\DataTypes\\Modes.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\DataTypes\\Modes.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\DataTypes\\Modes.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\DataTypes\\Modes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:26:49.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentBookingBussinessTier\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentBookingBussinessTier\\Services\\LoginService.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentBookingBussinessTier\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:06:10.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RetrivingAddPatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\RetrivingAddPatientDTO.cs",
+              "RelativeDocumentMoniker": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\RetrivingAddPatientDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ClinicAppointmentsBookingDTO\\PatientDTO\\RetrivingAddPatientDTO.cs",
+              "RelativeToolTip": "..\\ClinicAppointmentsBookingDTO\\PatientDTO\\RetrivingAddPatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:49:25.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

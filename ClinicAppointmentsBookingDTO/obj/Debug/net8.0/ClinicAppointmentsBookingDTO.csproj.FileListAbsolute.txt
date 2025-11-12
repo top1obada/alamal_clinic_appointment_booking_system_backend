@@ -1,0 +1,12 @@
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\bin\Debug\net8.0\ClinicAppointmentsBookingDTO.deps.json
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\bin\Debug\net8.0\ClinicAppointmentsBookingDTO.dll
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\bin\Debug\net8.0\ClinicAppointmentsBookingDTO.pdb
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.csproj.AssemblyReference.cache
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.AssemblyInfoInputs.cache
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.AssemblyInfo.cs
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.csproj.CoreCompileInputs.cache
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.dll
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\refint\ClinicAppointmentsBookingDTO.dll
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ClinicAppointmentsBookingDTO.pdb
+C:\Users\Game On\source\repos\ClinicAppointmentsBookingDTO\obj\Debug\net8.0\ref\ClinicAppointmentsBookingDTO.dll

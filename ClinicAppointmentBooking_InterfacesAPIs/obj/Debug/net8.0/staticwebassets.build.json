@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8XAluSXow4B84+VigBWl1jN6eIYjOc4XPet5x+HMC2I=",
+  "Source": "ClinicAppointmentBooking_InterfacesAPIs",
+  "BasePath": "_content/ClinicAppointmentBooking_InterfacesAPIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

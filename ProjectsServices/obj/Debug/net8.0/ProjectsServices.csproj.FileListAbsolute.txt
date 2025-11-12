@@ -1,0 +1,12 @@
+C:\Users\Game On\source\repos\ProjectsServices\bin\Debug\net8.0\ProjectsServices.deps.json
+C:\Users\Game On\source\repos\ProjectsServices\bin\Debug\net8.0\ProjectsServices.dll
+C:\Users\Game On\source\repos\ProjectsServices\bin\Debug\net8.0\ProjectsServices.pdb
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.csproj.AssemblyReference.cache
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.AssemblyInfoInputs.cache
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.AssemblyInfo.cs
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.csproj.CoreCompileInputs.cache
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.dll
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\refint\ProjectsServices.dll
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ProjectsServices.pdb
+C:\Users\Game On\source\repos\ProjectsServices\obj\Debug\net8.0\ref\ProjectsServices.dll
